@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
 
+This is an example application to dynamically create Slugs from Parent entry added as a reference to the child entry. The code is just for demo purposes please optimize it for production use.
+
+Sample App
+
+
+<img src="./rd1.png" alt="" width="200" height="200"/>
+
+
+<br>
+Steps to use.
+
+- Create a Child Page and a Parent page with slug fields as shown in screenshot below
+
+<img src="./rd2.png" alt="" width="200" height="100"/>
+
+- Run and Install the App with Field location. In this example I created Slug Dynamic field as a seprate field. 
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
