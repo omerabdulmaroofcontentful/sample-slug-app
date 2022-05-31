@@ -5,7 +5,7 @@ This is an example application to dynamically create Slugs from Parent entry add
 Sample App
 
 
-<img src="./rd1.png" alt="" width="200" height="200"/>
+<img src="./rd3.png" alt="" width="200" height="200"/>
 
 
 <br>
@@ -17,6 +17,7 @@ Steps to use.
   - slug
   - automatedslug (configure the app on this field)
   - ParentPage (as a reference field)
+
 
 
 - Run and Install the App with Field location. In this example I created Slug Dynamic field as a seprate field. 
