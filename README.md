@@ -11,9 +11,13 @@ Sample App
 <br>
 Steps to use.
 
-- Create a Child Page and a Parent page with slug fields as shown in screenshot below
+- Create a content type "page" with following fields
+  - internal-id
+  - title
+  - slug
+  - automatedslug (configure the app on this field)
+  - ParentPage (as a reference field)
 
-<img src="./rd2.png" alt="" width="200" height="100"/>
 
 - Run and Install the App with Field location. In this example I created Slug Dynamic field as a seprate field. 
 
